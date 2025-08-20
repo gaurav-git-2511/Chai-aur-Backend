@@ -9,12 +9,13 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "keywords":[
+  "keywords": [
     "javascript",
     "backend",
     "chai"
-    ],
+  ],
   "devDependencies": {
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
   }
 }
